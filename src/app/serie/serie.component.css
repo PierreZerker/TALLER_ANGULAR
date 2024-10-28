@@ -1,0 +1,30 @@
+
+p {
+  color : #f6921d;
+  font-family: "Monocraft", serif;
+  font-size: 15px;
+}
+
+
+td, th {
+  padding: 0.5rem;
+}
+table{
+  color:#b14623 !important;
+  background-color: #130912;
+  --bs-table-bg:#130912;
+}
+
+thead{
+  background-color:#130912;
+  font-family: "Monocraft", serif;
+  color: #b14623 ;
+  text-align: center;
+}
+
+tbody{
+  background-color:#130912 !important;
+  font-family: "Monocraft", serif;
+  --bs-table-color:#f6921d;
+  text-align: center;
+}
